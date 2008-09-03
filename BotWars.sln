@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual C# Express 2005
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotWars", "BotWars\BotWars.csproj", "{DDAB3DD9-A741-48CE-B717-858294EB23BE}"
 	ProjectSection(ProjectDependencies) = postProject
 		{D0501365-948B-436B-BFAC-147D1BE87215} = {D0501365-948B-436B-BFAC-147D1BE87215}
